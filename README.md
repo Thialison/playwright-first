@@ -23,6 +23,9 @@ git clone git@github.com:Thialison/playwright-first.git
 # Access repository folder
 cd playwright-first
 
+# Install playwright browsers/dependencies
+npx playwright install
+
 # Install dependencies
 npm install
 ```
